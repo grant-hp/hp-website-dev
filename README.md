@@ -1,7 +1,11 @@
 
 # Boostrap 4 Github Pages
 
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
+forked from [nicolas-van bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages)
+original docs can be seen here (https://nicolas-van.github.io/bootstrap-4-github-pages/)
+
+This will be developed into the dev site for Hampden Park Tennis Club Website - the live site repos can be seen here:
+[hptennis-website github repo](https://github.com/hptennis/hptennis-website) and the live site seen here: [https://hampdenparktennis.co.uk/](https://hampdenparktennis.co.uk/)
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -10,7 +14,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+[See the website for demonstration and documentation](https://grant-hp.github.io/hp-website-dev/).
 
 ## Contribution
 
